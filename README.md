@@ -1,6 +1,6 @@
-# Template base de tags HTML
+# HTML tags base template
 
-Template base de tags HTML para copiar e colar em novos projetos.
+HTML tags base template to copy and paste into new projects.
 
-##### Para artigos, tutoriais e projetos
-Acesse: https://romaopedro.com/
+##### Articles, tutorials and projects
+https://romaopedro.com/
