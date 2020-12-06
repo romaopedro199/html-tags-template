@@ -1,6 +1,6 @@
-# Grid responsivo com flexbox
+# Template base de tags HTML
 
-Aplico esse grid em vários projetos e funciona muito bem para distribuir o espaço dentro de containers responsivos.
+Template base de tags HTML para copiar e colar em novos projetos.
 
 ##### Para artigos, tutoriais e projetos
 Acesse: https://romaopedro.com/
